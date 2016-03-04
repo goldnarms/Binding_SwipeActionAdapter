@@ -1,0 +1,29 @@
+<?xml version="1.0"?>
+<package >
+  <metadata>
+    <id>SwipeActionAdapter</id>
+    <version>1.0.0</version>
+    <title>SwipeActionAdapter</title>
+    <authors>Arnstein Johansen</authors>
+    <owners>Arnstein Johansen</owners>
+    <description>Binding library for SwipeActionAdapter (https://github.com/wdullaer/SwipeActionAdapter/tree/v2.0.0).</description>
+    <releaseNotes>Added bindings.</releaseNotes>
+    <summary>
+    </summary>
+    <language>en-US</language>
+    <projectUrl>https://nuget.org/packages/SwipeActionAdapter.nuget</projectUrl>
+    <iconUrl>https://nuget.org/Content/Images/packageDefaultIcon-50x50.png</iconUrl>
+    <requireLicenseAcceptance>false</requireLicenseAcceptance>
+    <licenseUrl>http://opensource.org/licenses/Apache-2.0</licenseUrl>
+    <copyright>Copyright  2016</copyright>
+    <dependencies>
+    </dependencies>
+    <references></references>
+    <tags>Swipe ListView Android Xamarin</tags>
+  </metadata>
+  <files>
+    <file src="lib\" target="lib" />
+    <file src="tools\" target="tools" />
+    <file src="content\" target="content" />
+  </files>
+</package>
