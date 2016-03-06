@@ -1,5 +1,5 @@
 # Xamarin Binding: SwipeActionAdapter
-This is a binding package for SwipeActionAdapter, an Android library that gieves you a listview with swiping.
+This is a binding package for SwipeActionAdapter, an Android library that gives you a listview with swiping.
 
 ## How to use
 For docs and how to use, see: https://github.com/wdullaer/SwipeActionAdapter
